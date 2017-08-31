@@ -30,6 +30,7 @@
         android:layout_below="@id/tFinal"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="50dp"
+        android:onClick="back"
         android:text="BACK" />
 
 </RelativeLayout>
